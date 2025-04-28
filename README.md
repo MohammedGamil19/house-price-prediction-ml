@@ -8,7 +8,7 @@ This project demonstrates the complete end-to-end machine learning workflow incl
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python**
 - **Pandas** - for data handling
 - **Numpy** - for numerical operations
