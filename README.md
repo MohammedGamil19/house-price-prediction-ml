@@ -40,12 +40,13 @@ This project demonstrates the complete end-to-end machine learning workflow incl
 ---
 ---
 
-## ⚙ Project Structure
+##  Project Structure
 
 ##  Results
 - **Model Performance:**  
   - Mean Squared Error (MSE): 0.5559
   - R² Score: 0.5758
+![image](https://github.com/user-attachments/assets/5a10795b-f259-43f3-a571-19c49110e624)
 
 The Linear Regression model performed reasonably well for a simple approach. Future improvements could include using more complex models like Decision Trees, Random Forests, or Gradient Boosting.
 
